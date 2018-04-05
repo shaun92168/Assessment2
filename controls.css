@@ -1,0 +1,30 @@
+input {
+    width:50px;
+}
+
+#number {
+    color:white;
+    background-color:black;
+}
+
+#random {
+    background-color:pink;
+}
+
+#plus {
+    color:white;
+    background-color:gray;
+}
+
+.newItems{
+    width:auto;
+    height:auto;
+    position:absolute;
+    left:0;
+    right:0;
+    margin:auto;
+}
+
+.newDis{
+    
+}
